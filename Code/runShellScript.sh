@@ -9,7 +9,7 @@ URL_PPA_WINE="https://dl.winehq.org/wine-builds/ubuntu/"
 
 URL_GOOGLE_CHROME="https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb"
 URL_INSYNC="https://d2t3ff60b2tol4.cloudfront.net/builds/insync_3.0.20.40428-bionic_amd64.deb"
-URL_VSCODE=
+
 
 
 DIRETORIO_DOWNLOADS="$HOME/Downloads/programas"
